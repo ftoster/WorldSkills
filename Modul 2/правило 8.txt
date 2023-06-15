@@ -1,0 +1,19 @@
+Infowatch device monitor Client запросить доступ
+далее
+код запроса
+Infowatch device monitor Console инструменты
+временый доступ сотрудника
+далее
+далее
+В код запроса вписываешь код запроса из прошлого приложения
+устройства CD/DVD
+Учётная запись Demo/user-Client
+время доступа: 4 часа
+далее
+код подтверждения копируешь A Infowatch device monitor Console и вставляешь в A Infowatch device monitor Client
+код подтверждения копируешь B Infowatch device monitor Console и вставляешь в B Infowatch device monitor Client
+Infowatch device monitor Client далее
+Infowatch device monitor Console готово
+Infowatch device monitor Client завершить
+Список устройств
+Конец!
