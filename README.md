@@ -1,5 +1,7 @@
 # WorldSkills
 
-Все что тут представлено, сделано по ролику и предназначено для ознакомления и примера
+Everything that is presented here is made according to the video and is intended for review and example.
 
-Ссылка на источник https://disk.yandex.ru/d/SaaUhR4CLF73Mw
+Link to source: https://disk.yandex.ru/d/SaaUhR4CLF73Mw
+                https://aaa89985533.wordpress.com/
+
